@@ -1,0 +1,16 @@
+Item ID,Item Name,Category,Quantity,Unit Cost (INR),Location,Assigned To,Status
+PMO-001,Laptop - Dell Latitude 5440,Hardware,25,78000,Bengaluru,Development Team,In Use
+PMO-002,Monitor - 27 inch,Hardware,40,18500,Pune,Development Team,In Use
+PMO-003,Docking Station,Hardware,30,9500,Bengaluru,Development Team,In Use
+PMO-004,Wireless Keyboard & Mouse,Hardware,50,2200,Hyderabad,Support Team,In Use
+PMO-005,Conference Room Projector,Hardware,4,55000,Bengaluru,Facilities,In Use
+PMO-006,MS Office 365 License,Software,120,8500,All Locations,All Staff,Active
+PMO-007,Jira License,Software,60,7200,All Locations,Engineering,Active
+PMO-008,VPN Access License,Software,120,3600,All Locations,All Staff,Active
+PMO-009,Office Desk,Furniture,80,12000,Pune,Facilities,In Use
+PMO-010,Ergonomic Chair,Furniture,80,9800,Pune,Facilities,In Use
+PMO-011,Network Switch - 48 Port,Networking,6,42000,Hyderabad,IT Infrastructure,In Use
+PMO-012,Wi-Fi Access Point,Networking,20,11000,Bengaluru,IT Infrastructure,In Use
+PMO-013,UPS - 3 KVA,Networking,8,28000,Hyderabad,IT Infrastructure,In Use
+PMO-014,External Hard Drive - 2TB,Hardware,15,6500,Bengaluru,Support Team,In Stock
+PMO-015,Webcam - HD 1080p,Hardware,35,3200,Pune,Development Team,In Stock
